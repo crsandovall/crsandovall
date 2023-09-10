@@ -3,7 +3,7 @@
 ¡Bienvenido a mi perfil!
 
 ## Acerca de mí
-Soy César Sandoval, Ingeniero de Sistemas y egresado de la Maestría en Administración por la UNALM (MG. Sc.)  Mi pasión por la tecnología y las computadoras me ha llevado a explorar y aprender constantemente nuevas tecnologías, mejorando mis habilidades en el campo.
+Soy César Sandoval, Ingeniero de Sistemas y egresado de la Maestría en Administración por la UNALM (Mg. Sc.)  Mi pasión por la tecnología y las computación me ha llevado a explorar y aprender constantemente nuevas tecnologías, mejorando mis habilidades en el campo.
 
 ## Experiencia y Conocimientos
 A lo largo de mi carrera como Ingeniero de Sistemas, he adquirido experiencia en áreas como el desarrollo de software, la gestión de proyectos y la administración de sistemas. Además, mi formación en Administración me ha brindado habilidades en liderazgo, toma de decisiones y gestión eficiente de recursos.
