@@ -1,25 +1,26 @@
 # ¡Hola! 👋
 
-¡Bienvenido a mi repositorio personal!
+¡Bienvenido a mi perfil!
 
-## Sobre mí
-Soy Cesar Sandoval, Ingeniero de Sistemas de Perú. Me apasiona la programación y estoy constantemente aprendiendo nuevas tecnologías y mejorando mis habilidades.
+## Acerca de mí
+Soy Cesar Sandoval, Ingeniero de Sistemas y Magíster en Administración. Mi pasión por la tecnología y las computadoras me ha llevado a explorar y aprender constantemente nuevas tecnologías, mejorando mis habilidades en el campo.
+
+## Experiencia y Conocimientos
+A lo largo de mi carrera como Ingeniero de Sistemas, he adquirido experiencia en áreas como el desarrollo de software, la gestión de proyectos y la administración de sistemas. Además, mi formación en Administración me ha brindado habilidades en liderazgo, toma de decisiones y gestión eficiente de recursos.
 
 ## Proyectos Destacados
 Aquí encontrarás algunos de mis proyectos destacados:
 
-- [Proyecto 1](https://github.com/users/crsandovall/projects/1): Breve descripción del proyecto.
-- [Proyecto 2](enlace-al-proyecto-2): Breve descripción del proyecto.
-- [Proyecto 3](enlace-al-proyecto-3): Breve descripción del proyecto.
-
-## Contribuciones
-En el último año, he realizado 3 contribuciones a proyectos de código abierto.
+- [Proyecto 1](https://github.com/users/crsandovall/projects/1): Aplicación para procesos de bachillerato y Titulación.
+- [Proyecto 2](enlace-al-proyecto-2).
+- [Proyecto 3](enlace-al-proyecto-3).
 
 ## Contacto
 Si tienes alguna pregunta o te gustaría colaborar en algún proyecto, no dudes en contactarme:
 
-- Correo electrónico: [tucorreo@example.com](mailto:tucorreo@example.com)
-- LinkedIn: [Tu Nombre](https://www.linkedin.com/in/tu-nombre/)
-- Twitter: [@TuUsuario](https://twitter.com/tu-usuario)
+- Correo electrónico: [csandovall@lamolina.edu.pe](mailto:csandovall@lamolina.edu.pe)
+- LinkedIn: [Csandovall](https://www.linkedin.com/in/crsandovall)
+- Twitter: [@Csandovall](https://twitter.com/csandovall)
 
 ¡Gracias por visitar mi perfil!
+
