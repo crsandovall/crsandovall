@@ -8,7 +8,7 @@ Soy Cesar Sandoval, Ingeniero de Sistemas de Perú. Me apasiona la programación
 ## Proyectos Destacados
 Aquí encontrarás algunos de mis proyectos destacados:
 
-- [Proyecto 1](enlace-al-proyecto-1): Breve descripción del proyecto.
+- [Proyecto 1](https://github.com/users/crsandovall/projects/1): Breve descripción del proyecto.
 - [Proyecto 2](enlace-al-proyecto-2): Breve descripción del proyecto.
 - [Proyecto 3](enlace-al-proyecto-3): Breve descripción del proyecto.
 
