@@ -1,16 +1,25 @@
-### Hi there 👋
+# ¡Hola! 👋
 
+¡Bienvenido a mi repositorio personal!
 
-**crsandovall/crsandovall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy Cesar Sandoval, Ingeniero de Sistemas de Perú. Me apasiona la programación y estoy constantemente aprendiendo nuevas tecnologías y mejorando mis habilidades.
 
-Here are some ideas to get you started:
+## Proyectos Destacados
+Aquí encontrarás algunos de mis proyectos destacados:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [Proyecto 1](enlace-al-proyecto-1): Breve descripción del proyecto.
+- [Proyecto 2](enlace-al-proyecto-2): Breve descripción del proyecto.
+- [Proyecto 3](enlace-al-proyecto-3): Breve descripción del proyecto.
 
+## Contribuciones
+En el último año, he realizado 3 contribuciones a proyectos de código abierto.
+
+## Contacto
+Si tienes alguna pregunta o te gustaría colaborar en algún proyecto, no dudes en contactarme:
+
+- Correo electrónico: [tucorreo@example.com](mailto:tucorreo@example.com)
+- LinkedIn: [Tu Nombre](https://www.linkedin.com/in/tu-nombre/)
+- Twitter: [@TuUsuario](https://twitter.com/tu-usuario)
+
+¡Gracias por visitar mi perfil!
